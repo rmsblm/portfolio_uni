@@ -147,7 +147,7 @@ h2{
   }
  
 /*----- SKILLS ------- */
-/* General Section Style */
+/* general section style */
 .skills {
   text-align: center;
   padding: 50px 20px;
@@ -162,7 +162,7 @@ h2{
   margin-top: 30px;
 }
 
-/* Skill Card Style */
+/* skill card style */
 .skill-card {
     background-color: #b8becbcd;
   border-radius: 12px;
@@ -177,7 +177,7 @@ h2{
   font-size: 18px;
 }
 
-/* Progress Bar */
+/* progress bar */
 .progress-bar {
   background-color: #ddd;
   border-radius: 10px;
